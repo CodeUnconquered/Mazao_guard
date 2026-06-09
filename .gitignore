@@ -1,2 +1,27 @@
-ECHO is on.
-"mazao_guard.db" 
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Database
+*.db
+*.sqlite
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
