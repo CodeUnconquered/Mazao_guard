@@ -1,0 +1,697 @@
+2026-06-03 12:06:32 +03:00: 2026-06-03 12:06:32.946 Uvicorn server started on 0.0.0.0:8501
+2026-06-03 12:13:00 +03:00: 2026-06-03 12:13:00.130 Uvicorn server started on 0.0.0.0:8501
+2026-06-03 12:15:21 +03:00: 2026-06-03 12:15:21.485 Please replace `use_container_width` with `width`.
+2026-06-03 12:15:21 +03:00: 
+2026-06-03 12:15:21 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:15:21 +03:00: 
+2026-06-03 12:15:21 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:15:21 +03:00: 2026-06-03 12:15:21.524 Please replace `use_container_width` with `width`.
+2026-06-03 12:15:21 +03:00: 
+2026-06-03 12:15:21 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:15:21 +03:00: 
+2026-06-03 12:15:21 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:15:21 +03:00: 2026-06-03 12:15:21.554 Please replace `use_container_width` with `width`.
+2026-06-03 12:15:21 +03:00: 
+2026-06-03 12:15:21 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:15:21 +03:00: 
+2026-06-03 12:15:21 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:26:28 +03:00: Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+2026-06-03 12:26:28 +03:00: handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+2026-06-03 12:26:28 +03:00: Traceback (most recent call last):
+2026-06-03 12:26:28 +03:00:   File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+2026-06-03 12:26:28 +03:00:     self._context.run(self._callback, *self._args)
+2026-06-03 12:26:28 +03:00:     ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-06-03 12:26:28 +03:00:   File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+2026-06-03 12:26:28 +03:00:     self._sock.shutdown(socket.SHUT_RDWR)
+2026-06-03 12:26:28 +03:00:     ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+2026-06-03 12:26:28 +03:00: ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-06-03 12:35:41 +03:00: 2026-06-03 12:35:41.032 Please replace `use_container_width` with `width`.
+2026-06-03 12:35:41 +03:00: 
+2026-06-03 12:35:41 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:35:41 +03:00: 
+2026-06-03 12:35:41 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:35:41 +03:00: 2026-06-03 12:35:41.187 Please replace `use_container_width` with `width`.
+2026-06-03 12:35:41 +03:00: 
+2026-06-03 12:35:41 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:35:41 +03:00: 
+2026-06-03 12:35:41 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:35:43 +03:00: 2026-06-03 12:35:43.263 Please replace `use_container_width` with `width`.
+2026-06-03 12:35:43 +03:00: 
+2026-06-03 12:35:43 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:35:43 +03:00: 
+2026-06-03 12:35:43 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:35:43 +03:00: 2026-06-03 12:35:43.411 Please replace `use_container_width` with `width`.
+2026-06-03 12:35:43 +03:00: 
+2026-06-03 12:35:43 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:35:43 +03:00: 
+2026-06-03 12:35:43 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:35:49 +03:00: 2026-06-03 12:35:49.889 Please replace `use_container_width` with `width`.
+2026-06-03 12:35:49 +03:00: 
+2026-06-03 12:35:49 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:35:49 +03:00: 
+2026-06-03 12:35:49 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:35:49 +03:00: 2026-06-03 12:35:49.953 Please replace `use_container_width` with `width`.
+2026-06-03 12:35:49 +03:00: 
+2026-06-03 12:35:49 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:35:49 +03:00: 
+2026-06-03 12:35:49 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:35:59 +03:00: 2026-06-03 12:35:59.253 Please replace `use_container_width` with `width`.
+2026-06-03 12:35:59 +03:00: 
+2026-06-03 12:35:59 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:35:59 +03:00: 
+2026-06-03 12:35:59 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:35:59 +03:00: 2026-06-03 12:35:59.343 Please replace `use_container_width` with `width`.
+2026-06-03 12:35:59 +03:00: 
+2026-06-03 12:35:59 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:35:59 +03:00: 
+2026-06-03 12:35:59 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:36:01 +03:00: 2026-06-03 12:36:01.404 Please replace `use_container_width` with `width`.
+2026-06-03 12:36:01 +03:00: 
+2026-06-03 12:36:01 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:36:01 +03:00: 
+2026-06-03 12:36:01 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:36:01 +03:00: 2026-06-03 12:36:01.509 Please replace `use_container_width` with `width`.
+2026-06-03 12:36:01 +03:00: 
+2026-06-03 12:36:01 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:36:01 +03:00: 
+2026-06-03 12:36:01 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:36:13 +03:00: 2026-06-03 12:36:13.168 Please replace `use_container_width` with `width`.
+2026-06-03 12:36:13 +03:00: 
+2026-06-03 12:36:13 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:36:13 +03:00: 
+2026-06-03 12:36:13 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:36:13 +03:00: 2026-06-03 12:36:13.234 Please replace `use_container_width` with `width`.
+2026-06-03 12:36:13 +03:00: 
+2026-06-03 12:36:13 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:36:13 +03:00: 
+2026-06-03 12:36:13 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:36:22 +03:00: 2026-06-03 12:36:22.207 Please replace `use_container_width` with `width`.
+2026-06-03 12:36:22 +03:00: 
+2026-06-03 12:36:22 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:36:22 +03:00: 
+2026-06-03 12:36:22 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:36:22 +03:00: 2026-06-03 12:36:22.272 Please replace `use_container_width` with `width`.
+2026-06-03 12:36:22 +03:00: 
+2026-06-03 12:36:22 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:36:22 +03:00: 
+2026-06-03 12:36:22 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:36:24 +03:00: 2026-06-03 12:36:24.332 Please replace `use_container_width` with `width`.
+2026-06-03 12:36:24 +03:00: 
+2026-06-03 12:36:24 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:36:24 +03:00: 
+2026-06-03 12:36:24 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:36:24 +03:00: 2026-06-03 12:36:24.425 Please replace `use_container_width` with `width`.
+2026-06-03 12:36:24 +03:00: 
+2026-06-03 12:36:24 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:36:24 +03:00: 
+2026-06-03 12:36:24 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:36:31 +03:00: 2026-06-03 12:36:31.809 Please replace `use_container_width` with `width`.
+2026-06-03 12:36:31 +03:00: 
+2026-06-03 12:36:31 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:36:31 +03:00: 
+2026-06-03 12:36:31 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:36:31 +03:00: 2026-06-03 12:36:31.869 Please replace `use_container_width` with `width`.
+2026-06-03 12:36:31 +03:00: 
+2026-06-03 12:36:31 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:36:31 +03:00: 
+2026-06-03 12:36:31 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:36:41 +03:00: 2026-06-03 12:36:41.045 Please replace `use_container_width` with `width`.
+2026-06-03 12:36:41 +03:00: 
+2026-06-03 12:36:41 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:36:41 +03:00: 
+2026-06-03 12:36:41 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:36:41 +03:00: 2026-06-03 12:36:41.156 Please replace `use_container_width` with `width`.
+2026-06-03 12:36:41 +03:00: 
+2026-06-03 12:36:41 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:36:41 +03:00: 
+2026-06-03 12:36:41 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:36:43 +03:00: 2026-06-03 12:36:43.599 Please replace `use_container_width` with `width`.
+2026-06-03 12:36:43 +03:00: 
+2026-06-03 12:36:43 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:36:43 +03:00: 
+2026-06-03 12:36:43 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:36:44 +03:00: 2026-06-03 12:36:44.051 Please replace `use_container_width` with `width`.
+2026-06-03 12:36:44 +03:00: 
+2026-06-03 12:36:44 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:36:44 +03:00: 
+2026-06-03 12:36:44 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:38:06 +03:00: 2026-06-03 12:38:06.728 Please replace `use_container_width` with `width`.
+2026-06-03 12:38:06 +03:00: 
+2026-06-03 12:38:06 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:38:06 +03:00: 
+2026-06-03 12:38:06 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:38:06 +03:00: 2026-06-03 12:38:06.803 Please replace `use_container_width` with `width`.
+2026-06-03 12:38:06 +03:00: 
+2026-06-03 12:38:06 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:38:06 +03:00: 
+2026-06-03 12:38:06 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:38:08 +03:00: 2026-06-03 12:38:08.867 Please replace `use_container_width` with `width`.
+2026-06-03 12:38:08 +03:00: 
+2026-06-03 12:38:08 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:38:08 +03:00: 
+2026-06-03 12:38:08 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:38:08 +03:00: 2026-06-03 12:38:08.990 Please replace `use_container_width` with `width`.
+2026-06-03 12:38:08 +03:00: 
+2026-06-03 12:38:08 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:38:08 +03:00: 
+2026-06-03 12:38:08 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:39:32 +03:00: 2026-06-03 12:39:32.776 Please replace `use_container_width` with `width`.
+2026-06-03 12:39:32 +03:00: 
+2026-06-03 12:39:32 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:39:32 +03:00: 
+2026-06-03 12:39:32 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:39:32 +03:00: 2026-06-03 12:39:32.892 Please replace `use_container_width` with `width`.
+2026-06-03 12:39:32 +03:00: 
+2026-06-03 12:39:32 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:39:32 +03:00: 
+2026-06-03 12:39:32 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:39:34 +03:00: 2026-06-03 12:39:34.993 Please replace `use_container_width` with `width`.
+2026-06-03 12:39:34 +03:00: 
+2026-06-03 12:39:34 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:39:34 +03:00: 
+2026-06-03 12:39:34 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:39:35 +03:00: 2026-06-03 12:39:35.090 Please replace `use_container_width` with `width`.
+2026-06-03 12:39:35 +03:00: 
+2026-06-03 12:39:35 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:39:35 +03:00: 
+2026-06-03 12:39:35 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:39:46 +03:00: 2026-06-03 12:39:46.940 Please replace `use_container_width` with `width`.
+2026-06-03 12:39:46 +03:00: 
+2026-06-03 12:39:46 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:39:46 +03:00: 
+2026-06-03 12:39:46 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:39:47 +03:00: 2026-06-03 12:39:47.016 Please replace `use_container_width` with `width`.
+2026-06-03 12:39:47 +03:00: 
+2026-06-03 12:39:47 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:39:47 +03:00: 
+2026-06-03 12:39:47 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:39:49 +03:00: 2026-06-03 12:39:49.086 Please replace `use_container_width` with `width`.
+2026-06-03 12:39:49 +03:00: 
+2026-06-03 12:39:49 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:39:49 +03:00: 
+2026-06-03 12:39:49 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:39:49 +03:00: 2026-06-03 12:39:49.257 Please replace `use_container_width` with `width`.
+2026-06-03 12:39:49 +03:00: 
+2026-06-03 12:39:49 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:39:49 +03:00: 
+2026-06-03 12:39:49 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:40:01 +03:00: 2026-06-03 12:40:01.059 Please replace `use_container_width` with `width`.
+2026-06-03 12:40:01 +03:00: 
+2026-06-03 12:40:01 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:40:01 +03:00: 
+2026-06-03 12:40:01 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:40:01 +03:00: 2026-06-03 12:40:01.129 Please replace `use_container_width` with `width`.
+2026-06-03 12:40:01 +03:00: 
+2026-06-03 12:40:01 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:40:01 +03:00: 
+2026-06-03 12:40:01 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:40:03 +03:00: 2026-06-03 12:40:03.180 Please replace `use_container_width` with `width`.
+2026-06-03 12:40:03 +03:00: 
+2026-06-03 12:40:03 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:40:03 +03:00: 
+2026-06-03 12:40:03 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:40:03 +03:00: 2026-06-03 12:40:03.288 Please replace `use_container_width` with `width`.
+2026-06-03 12:40:03 +03:00: 
+2026-06-03 12:40:03 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:40:03 +03:00: 
+2026-06-03 12:40:03 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:40:10 +03:00: 2026-06-03 12:40:10.985 Please replace `use_container_width` with `width`.
+2026-06-03 12:40:10 +03:00: 
+2026-06-03 12:40:10 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:40:10 +03:00: 
+2026-06-03 12:40:10 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:40:11 +03:00: 2026-06-03 12:40:11.055 Please replace `use_container_width` with `width`.
+2026-06-03 12:40:11 +03:00: 
+2026-06-03 12:40:11 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:40:11 +03:00: 
+2026-06-03 12:40:11 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:40:13 +03:00: 2026-06-03 12:40:13.120 Please replace `use_container_width` with `width`.
+2026-06-03 12:40:13 +03:00: 
+2026-06-03 12:40:13 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:40:13 +03:00: 
+2026-06-03 12:40:13 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:40:13 +03:00: 2026-06-03 12:40:13.220 Please replace `use_container_width` with `width`.
+2026-06-03 12:40:13 +03:00: 
+2026-06-03 12:40:13 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:40:13 +03:00: 
+2026-06-03 12:40:13 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:41:43 +03:00: 2026-06-03 12:41:43.151 Please replace `use_container_width` with `width`.
+2026-06-03 12:41:43 +03:00: 
+2026-06-03 12:41:43 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:41:43 +03:00: 
+2026-06-03 12:41:43 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:41:43 +03:00: 2026-06-03 12:41:43.250 Please replace `use_container_width` with `width`.
+2026-06-03 12:41:43 +03:00: 
+2026-06-03 12:41:43 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:41:43 +03:00: 
+2026-06-03 12:41:43 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:41:45 +03:00: 2026-06-03 12:41:45.295 Please replace `use_container_width` with `width`.
+2026-06-03 12:41:45 +03:00: 
+2026-06-03 12:41:45 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:41:45 +03:00: 
+2026-06-03 12:41:45 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:41:45 +03:00: 2026-06-03 12:41:45.412 Please replace `use_container_width` with `width`.
+2026-06-03 12:41:45 +03:00: 
+2026-06-03 12:41:45 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:41:45 +03:00: 
+2026-06-03 12:41:45 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:42:04 +03:00: 2026-06-03 12:42:04.795 Please replace `use_container_width` with `width`.
+2026-06-03 12:42:04 +03:00: 
+2026-06-03 12:42:04 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:42:04 +03:00: 
+2026-06-03 12:42:04 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:42:04 +03:00: 2026-06-03 12:42:04.865 Please replace `use_container_width` with `width`.
+2026-06-03 12:42:04 +03:00: 
+2026-06-03 12:42:04 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:42:04 +03:00: 
+2026-06-03 12:42:04 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:42:06 +03:00: 2026-06-03 12:42:06.934 Please replace `use_container_width` with `width`.
+2026-06-03 12:42:06 +03:00: 
+2026-06-03 12:42:06 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:42:06 +03:00: 
+2026-06-03 12:42:06 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:42:07 +03:00: 2026-06-03 12:42:06.999 Please replace `use_container_width` with `width`.
+2026-06-03 12:42:07 +03:00: 
+2026-06-03 12:42:07 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:42:07 +03:00: 
+2026-06-03 12:42:07 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:42:27 +03:00: 2026-06-03 12:42:27.284 Please replace `use_container_width` with `width`.
+2026-06-03 12:42:27 +03:00: 
+2026-06-03 12:42:27 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:42:27 +03:00: 
+2026-06-03 12:42:27 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:42:27 +03:00: 2026-06-03 12:42:27.352 Please replace `use_container_width` with `width`.
+2026-06-03 12:42:27 +03:00: 
+2026-06-03 12:42:27 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:42:27 +03:00: 
+2026-06-03 12:42:27 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:42:32 +03:00: 2026-06-03 12:42:32.519 Please replace `use_container_width` with `width`.
+2026-06-03 12:42:32 +03:00: 
+2026-06-03 12:42:32 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:42:32 +03:00: 
+2026-06-03 12:42:32 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:42:32 +03:00: 2026-06-03 12:42:32.579 Please replace `use_container_width` with `width`.
+2026-06-03 12:42:32 +03:00: 
+2026-06-03 12:42:32 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:42:32 +03:00: 
+2026-06-03 12:42:32 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:42:36 +03:00: 2026-06-03 12:42:36.955 Please replace `use_container_width` with `width`.
+2026-06-03 12:42:36 +03:00: 
+2026-06-03 12:42:36 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:42:36 +03:00: 
+2026-06-03 12:42:36 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:42:37 +03:00: 2026-06-03 12:42:37.019 Please replace `use_container_width` with `width`.
+2026-06-03 12:42:37 +03:00: 
+2026-06-03 12:42:37 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:42:37 +03:00: 
+2026-06-03 12:42:37 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:42:39 +03:00: 2026-06-03 12:42:39.090 Please replace `use_container_width` with `width`.
+2026-06-03 12:42:39 +03:00: 
+2026-06-03 12:42:39 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:42:39 +03:00: 
+2026-06-03 12:42:39 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:42:39 +03:00: 2026-06-03 12:42:39.175 Please replace `use_container_width` with `width`.
+2026-06-03 12:42:39 +03:00: 
+2026-06-03 12:42:39 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:42:39 +03:00: 
+2026-06-03 12:42:39 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:42:48 +03:00: 2026-06-03 12:42:48.462 Please replace `use_container_width` with `width`.
+2026-06-03 12:42:48 +03:00: 
+2026-06-03 12:42:48 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:42:48 +03:00: 
+2026-06-03 12:42:48 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:42:48 +03:00: 2026-06-03 12:42:48.525 Please replace `use_container_width` with `width`.
+2026-06-03 12:42:48 +03:00: 
+2026-06-03 12:42:48 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:42:48 +03:00: 
+2026-06-03 12:42:48 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:42:50 +03:00: 2026-06-03 12:42:50.584 Please replace `use_container_width` with `width`.
+2026-06-03 12:42:50 +03:00: 
+2026-06-03 12:42:50 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:42:50 +03:00: 
+2026-06-03 12:42:50 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:42:50 +03:00: 2026-06-03 12:42:50.669 Please replace `use_container_width` with `width`.
+2026-06-03 12:42:50 +03:00: 
+2026-06-03 12:42:50 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:42:50 +03:00: 
+2026-06-03 12:42:50 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:43:13 +03:00: 2026-06-03 12:43:13.966 Please replace `use_container_width` with `width`.
+2026-06-03 12:43:13 +03:00: 
+2026-06-03 12:43:13 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:43:13 +03:00: 
+2026-06-03 12:43:13 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:43:14 +03:00: 2026-06-03 12:43:14.023 Please replace `use_container_width` with `width`.
+2026-06-03 12:43:14 +03:00: 
+2026-06-03 12:43:14 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:43:14 +03:00: 
+2026-06-03 12:43:14 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:43:16 +03:00: 2026-06-03 12:43:16.097 Please replace `use_container_width` with `width`.
+2026-06-03 12:43:16 +03:00: 
+2026-06-03 12:43:16 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:43:16 +03:00: 
+2026-06-03 12:43:16 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:43:16 +03:00: 2026-06-03 12:43:16.186 Please replace `use_container_width` with `width`.
+2026-06-03 12:43:16 +03:00: 
+2026-06-03 12:43:16 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:43:16 +03:00: 
+2026-06-03 12:43:16 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:49:50 +03:00: 2026-06-03 12:49:50.509 Please replace `use_container_width` with `width`.
+2026-06-03 12:49:50 +03:00: 
+2026-06-03 12:49:50 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:49:50 +03:00: 
+2026-06-03 12:49:50 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:49:50 +03:00: 2026-06-03 12:49:50.733 Please replace `use_container_width` with `width`.
+2026-06-03 12:49:50 +03:00: 
+2026-06-03 12:49:50 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:49:50 +03:00: 
+2026-06-03 12:49:50 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:49:52 +03:00: 2026-06-03 12:49:52.803 Please replace `use_container_width` with `width`.
+2026-06-03 12:49:52 +03:00: 
+2026-06-03 12:49:52 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:49:52 +03:00: 
+2026-06-03 12:49:52 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:49:52 +03:00: 2026-06-03 12:49:52.886 Please replace `use_container_width` with `width`.
+2026-06-03 12:49:52 +03:00: 
+2026-06-03 12:49:52 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:49:52 +03:00: 
+2026-06-03 12:49:52 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:52:13 +03:00: 2026-06-03 12:52:13.884 Please replace `use_container_width` with `width`.
+2026-06-03 12:52:13 +03:00: 
+2026-06-03 12:52:13 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:52:13 +03:00: 
+2026-06-03 12:52:13 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:52:13 +03:00: 2026-06-03 12:52:13.956 Please replace `use_container_width` with `width`.
+2026-06-03 12:52:13 +03:00: 
+2026-06-03 12:52:13 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:52:13 +03:00: 
+2026-06-03 12:52:13 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:52:16 +03:00: 2026-06-03 12:52:16.024 Please replace `use_container_width` with `width`.
+2026-06-03 12:52:16 +03:00: 
+2026-06-03 12:52:16 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:52:16 +03:00: 
+2026-06-03 12:52:16 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 12:52:16 +03:00: 2026-06-03 12:52:16.100 Please replace `use_container_width` with `width`.
+2026-06-03 12:52:16 +03:00: 
+2026-06-03 12:52:16 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 12:52:16 +03:00: 
+2026-06-03 12:52:16 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 13:02:07 +03:00: 2026-06-03 13:02:07.551 Please replace `use_container_width` with `width`.
+2026-06-03 13:02:07 +03:00: 
+2026-06-03 13:02:07 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 13:02:07 +03:00: 
+2026-06-03 13:02:07 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 13:02:07 +03:00: 2026-06-03 13:02:07.632 Please replace `use_container_width` with `width`.
+2026-06-03 13:02:07 +03:00: 
+2026-06-03 13:02:07 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 13:02:07 +03:00: 
+2026-06-03 13:02:07 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 13:02:09 +03:00: 2026-06-03 13:02:09.845 Please replace `use_container_width` with `width`.
+2026-06-03 13:02:09 +03:00: 
+2026-06-03 13:02:09 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 13:02:09 +03:00: 
+2026-06-03 13:02:09 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 13:02:10 +03:00: 2026-06-03 13:02:10.079 Please replace `use_container_width` with `width`.
+2026-06-03 13:02:10 +03:00: 
+2026-06-03 13:02:10 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 13:02:10 +03:00: 
+2026-06-03 13:02:10 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 13:52:31 +03:00: Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+2026-06-03 13:52:31 +03:00: handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+2026-06-03 13:52:31 +03:00: Traceback (most recent call last):
+2026-06-03 13:52:31 +03:00:   File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+2026-06-03 13:52:31 +03:00:     self._context.run(self._callback, *self._args)
+2026-06-03 13:52:31 +03:00:     ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-06-03 13:52:31 +03:00:   File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+2026-06-03 13:52:31 +03:00:     self._sock.shutdown(socket.SHUT_RDWR)
+2026-06-03 13:52:31 +03:00:     ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+2026-06-03 13:52:31 +03:00: ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-06-03 13:53:10 +03:00: 2026-06-03 13:53:10.186 Please replace `use_container_width` with `width`.
+2026-06-03 13:53:10 +03:00: 
+2026-06-03 13:53:10 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 13:53:10 +03:00: 
+2026-06-03 13:53:10 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 13:53:10 +03:00: 2026-06-03 13:53:10.241 Please replace `use_container_width` with `width`.
+2026-06-03 13:53:10 +03:00: 
+2026-06-03 13:53:10 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 13:53:10 +03:00: 
+2026-06-03 13:53:10 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 13:53:12 +03:00: 2026-06-03 13:53:12.323 Please replace `use_container_width` with `width`.
+2026-06-03 13:53:12 +03:00: 
+2026-06-03 13:53:12 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 13:53:12 +03:00: 
+2026-06-03 13:53:12 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 13:53:12 +03:00: 2026-06-03 13:53:12.413 Please replace `use_container_width` with `width`.
+2026-06-03 13:53:12 +03:00: 
+2026-06-03 13:53:12 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 13:53:12 +03:00: 
+2026-06-03 13:53:12 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 13:57:29 +03:00: 2026-06-03 13:57:29.601 Please replace `use_container_width` with `width`.
+2026-06-03 13:57:29 +03:00: 
+2026-06-03 13:57:29 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 13:57:29 +03:00: 
+2026-06-03 13:57:29 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 13:57:29 +03:00: 2026-06-03 13:57:29.637 Please replace `use_container_width` with `width`.
+2026-06-03 13:57:29 +03:00: 
+2026-06-03 13:57:29 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 13:57:29 +03:00: 
+2026-06-03 13:57:29 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 13:57:38 +03:00: 2026-06-03 13:57:38.228 Please replace `use_container_width` with `width`.
+2026-06-03 13:57:38 +03:00: 
+2026-06-03 13:57:38 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 13:57:38 +03:00: 
+2026-06-03 13:57:38 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 13:57:38 +03:00: 2026-06-03 13:57:38.267 Please replace `use_container_width` with `width`.
+2026-06-03 13:57:38 +03:00: 
+2026-06-03 13:57:38 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 13:57:38 +03:00: 
+2026-06-03 13:57:38 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 13:57:40 +03:00: 2026-06-03 13:57:40.349 Please replace `use_container_width` with `width`.
+2026-06-03 13:57:40 +03:00: 
+2026-06-03 13:57:40 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 13:57:40 +03:00: 
+2026-06-03 13:57:40 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 13:57:40 +03:00: 2026-06-03 13:57:40.417 Please replace `use_container_width` with `width`.
+2026-06-03 13:57:40 +03:00: 
+2026-06-03 13:57:40 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 13:57:40 +03:00: 
+2026-06-03 13:57:40 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 13:58:04 +03:00: 2026-06-03 13:58:04.230 Please replace `use_container_width` with `width`.
+2026-06-03 13:58:04 +03:00: 
+2026-06-03 13:58:04 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 13:58:04 +03:00: 
+2026-06-03 13:58:04 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 13:58:04 +03:00: 2026-06-03 13:58:04.261 Please replace `use_container_width` with `width`.
+2026-06-03 13:58:04 +03:00: 
+2026-06-03 13:58:04 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 13:58:04 +03:00: 
+2026-06-03 13:58:04 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 13:58:06 +03:00: 2026-06-03 13:58:06.313 Please replace `use_container_width` with `width`.
+2026-06-03 13:58:06 +03:00: 
+2026-06-03 13:58:06 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 13:58:06 +03:00: 
+2026-06-03 13:58:06 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 13:58:06 +03:00: 2026-06-03 13:58:06.360 Please replace `use_container_width` with `width`.
+2026-06-03 13:58:06 +03:00: 
+2026-06-03 13:58:06 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 13:58:06 +03:00: 
+2026-06-03 13:58:06 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 13:58:56 +03:00: 2026-06-03 13:58:56.386 Please replace `use_container_width` with `width`.
+2026-06-03 13:58:56 +03:00: 
+2026-06-03 13:58:56 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 13:58:56 +03:00: 
+2026-06-03 13:58:56 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 13:58:56 +03:00: 2026-06-03 13:58:56.419 Please replace `use_container_width` with `width`.
+2026-06-03 13:58:56 +03:00: 
+2026-06-03 13:58:56 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 13:58:56 +03:00: 
+2026-06-03 13:58:56 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 13:58:58 +03:00: 2026-06-03 13:58:58.460 Please replace `use_container_width` with `width`.
+2026-06-03 13:58:58 +03:00: 
+2026-06-03 13:58:58 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 13:58:58 +03:00: 
+2026-06-03 13:58:58 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 13:58:58 +03:00: 2026-06-03 13:58:58.531 Please replace `use_container_width` with `width`.
+2026-06-03 13:58:58 +03:00: 
+2026-06-03 13:58:58 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 13:58:58 +03:00: 
+2026-06-03 13:58:58 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 14:53:40 +03:00: 2026-06-03 14:53:40.222 Please replace `use_container_width` with `width`.
+2026-06-03 14:53:40 +03:00: 
+2026-06-03 14:53:40 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 14:53:40 +03:00: 
+2026-06-03 14:53:40 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 14:53:40 +03:00: 2026-06-03 14:53:40.319 Please replace `use_container_width` with `width`.
+2026-06-03 14:53:40 +03:00: 
+2026-06-03 14:53:40 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 14:53:40 +03:00: 
+2026-06-03 14:53:40 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 14:53:44 +03:00: 2026-06-03 14:53:44.089 Please replace `use_container_width` with `width`.
+2026-06-03 14:53:44 +03:00: 
+2026-06-03 14:53:44 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 14:53:44 +03:00: 
+2026-06-03 14:53:44 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 14:53:44 +03:00: 2026-06-03 14:53:44.122 Please replace `use_container_width` with `width`.
+2026-06-03 14:53:44 +03:00: 
+2026-06-03 14:53:44 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 14:53:44 +03:00: 
+2026-06-03 14:53:44 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 14:54:19 +03:00: 2026-06-03 14:54:19.986 Please replace `use_container_width` with `width`.
+2026-06-03 14:54:19 +03:00: 
+2026-06-03 14:54:19 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 14:54:19 +03:00: 
+2026-06-03 14:54:19 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 14:54:20 +03:00: 2026-06-03 14:54:20.057 Please replace `use_container_width` with `width`.
+2026-06-03 14:54:20 +03:00: 
+2026-06-03 14:54:20 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 14:54:20 +03:00: 
+2026-06-03 14:54:20 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 14:54:22 +03:00: 2026-06-03 14:54:22.323 Please replace `use_container_width` with `width`.
+2026-06-03 14:54:22 +03:00: 
+2026-06-03 14:54:22 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 14:54:22 +03:00: 
+2026-06-03 14:54:22 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 14:54:22 +03:00: 2026-06-03 14:54:22.342 Please replace `use_container_width` with `width`.
+2026-06-03 14:54:22 +03:00: 
+2026-06-03 14:54:22 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 14:54:22 +03:00: 
+2026-06-03 14:54:22 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 14:55:24 +03:00: 2026-06-03 14:55:24.968 Please replace `use_container_width` with `width`.
+2026-06-03 14:55:24 +03:00: 
+2026-06-03 14:55:24 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 14:55:24 +03:00: 
+2026-06-03 14:55:24 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 14:55:25 +03:00: 2026-06-03 14:55:25.034 Please replace `use_container_width` with `width`.
+2026-06-03 14:55:25 +03:00: 
+2026-06-03 14:55:25 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 14:55:25 +03:00: 
+2026-06-03 14:55:25 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 14:56:08 +03:00: 2026-06-03 14:56:08.968 Please replace `use_container_width` with `width`.
+2026-06-03 14:56:08 +03:00: 
+2026-06-03 14:56:08 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 14:56:08 +03:00: 
+2026-06-03 14:56:08 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 14:56:09 +03:00: 2026-06-03 14:56:09.030 Please replace `use_container_width` with `width`.
+2026-06-03 14:56:09 +03:00: 
+2026-06-03 14:56:09 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 14:56:09 +03:00: 
+2026-06-03 14:56:09 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 14:56:11 +03:00: 2026-06-03 14:56:11.241 Please replace `use_container_width` with `width`.
+2026-06-03 14:56:11 +03:00: 
+2026-06-03 14:56:11 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 14:56:11 +03:00: 
+2026-06-03 14:56:11 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 14:56:11 +03:00: 2026-06-03 14:56:11.261 Please replace `use_container_width` with `width`.
+2026-06-03 14:56:11 +03:00: 
+2026-06-03 14:56:11 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 14:56:11 +03:00: 
+2026-06-03 14:56:11 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 15:46:31 +03:00: 2026-06-03 15:46:31.782 Please replace `use_container_width` with `width`.
+2026-06-03 15:46:31 +03:00: 
+2026-06-03 15:46:31 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 15:46:31 +03:00: 
+2026-06-03 15:46:31 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 15:46:31 +03:00: 2026-06-03 15:46:31.838 Please replace `use_container_width` with `width`.
+2026-06-03 15:46:31 +03:00: 
+2026-06-03 15:46:31 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 15:46:31 +03:00: 
+2026-06-03 15:46:31 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 15:46:34 +03:00: 2026-06-03 15:46:34.060 Please replace `use_container_width` with `width`.
+2026-06-03 15:46:34 +03:00: 
+2026-06-03 15:46:34 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 15:46:34 +03:00: 
+2026-06-03 15:46:34 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 15:46:34 +03:00: 2026-06-03 15:46:34.079 Please replace `use_container_width` with `width`.
+2026-06-03 15:46:34 +03:00: 
+2026-06-03 15:46:34 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 15:46:34 +03:00: 
+2026-06-03 15:46:34 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 15:47:03 +03:00: 2026-06-03 15:47:03.038 Please replace `use_container_width` with `width`.
+2026-06-03 15:47:03 +03:00: 
+2026-06-03 15:47:03 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 15:47:03 +03:00: 
+2026-06-03 15:47:03 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 15:47:03 +03:00: 2026-06-03 15:47:03.099 Please replace `use_container_width` with `width`.
+2026-06-03 15:47:03 +03:00: 
+2026-06-03 15:47:03 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 15:47:03 +03:00: 
+2026-06-03 15:47:03 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 15:47:05 +03:00: 2026-06-03 15:47:05.321 Please replace `use_container_width` with `width`.
+2026-06-03 15:47:05 +03:00: 
+2026-06-03 15:47:05 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 15:47:05 +03:00: 
+2026-06-03 15:47:05 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 15:47:05 +03:00: 2026-06-03 15:47:05.339 Please replace `use_container_width` with `width`.
+2026-06-03 15:47:05 +03:00: 
+2026-06-03 15:47:05 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 15:47:05 +03:00: 
+2026-06-03 15:47:05 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 15:50:13 +03:00: 2026-06-03 15:50:13.099 Please replace `use_container_width` with `width`.
+2026-06-03 15:50:13 +03:00: 
+2026-06-03 15:50:13 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 15:50:13 +03:00: 
+2026-06-03 15:50:13 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 15:50:13 +03:00: 2026-06-03 15:50:13.194 Please replace `use_container_width` with `width`.
+2026-06-03 15:50:13 +03:00: 
+2026-06-03 15:50:13 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 15:50:13 +03:00: 
+2026-06-03 15:50:13 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 15:50:15 +03:00: 2026-06-03 15:50:15.442 Please replace `use_container_width` with `width`.
+2026-06-03 15:50:15 +03:00: 
+2026-06-03 15:50:15 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 15:50:15 +03:00: 
+2026-06-03 15:50:15 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 15:50:15 +03:00: 2026-06-03 15:50:15.504 Please replace `use_container_width` with `width`.
+2026-06-03 15:50:15 +03:00: 
+2026-06-03 15:50:15 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 15:50:15 +03:00: 
+2026-06-03 15:50:15 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 15:50:33 +03:00: 2026-06-03 15:50:33.256 Please replace `use_container_width` with `width`.
+2026-06-03 15:50:33 +03:00: 
+2026-06-03 15:50:33 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 15:50:33 +03:00: 
+2026-06-03 15:50:33 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 15:50:33 +03:00: 2026-06-03 15:50:33.322 Please replace `use_container_width` with `width`.
+2026-06-03 15:50:33 +03:00: 
+2026-06-03 15:50:33 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 15:50:33 +03:00: 
+2026-06-03 15:50:33 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 15:50:35 +03:00: 2026-06-03 15:50:35.530 Please replace `use_container_width` with `width`.
+2026-06-03 15:50:35 +03:00: 
+2026-06-03 15:50:35 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 15:50:35 +03:00: 
+2026-06-03 15:50:35 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 15:50:35 +03:00: 2026-06-03 15:50:35.547 Please replace `use_container_width` with `width`.
+2026-06-03 15:50:35 +03:00: 
+2026-06-03 15:50:35 +03:00: `use_container_width` will be removed after 2025-12-31.
+2026-06-03 15:50:35 +03:00: 
+2026-06-03 15:50:35 +03:00: For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
+2026-06-03 15:51:26 +03:00: Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+2026-06-03 15:51:26 +03:00: handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+2026-06-03 15:51:26 +03:00: Traceback (most recent call last):
+2026-06-03 15:51:26 +03:00:   File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+2026-06-03 15:51:26 +03:00:     self._context.run(self._callback, *self._args)
+2026-06-03 15:51:26 +03:00:     ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-06-03 15:51:26 +03:00:   File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+2026-06-03 15:51:26 +03:00:     self._sock.shutdown(socket.SHUT_RDWR)
+2026-06-03 15:51:26 +03:00:     ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+2026-06-03 15:51:26 +03:00: ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-06-03 15:51:26 +03:00: Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+2026-06-03 15:51:26 +03:00: handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+2026-06-03 15:51:26 +03:00: Traceback (most recent call last):
+2026-06-03 15:51:26 +03:00:   File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+2026-06-03 15:51:26 +03:00:     self._context.run(self._callback, *self._args)
+2026-06-03 15:51:26 +03:00:     ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-06-03 15:51:26 +03:00:   File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+2026-06-03 15:51:26 +03:00:     self._sock.shutdown(socket.SHUT_RDWR)
+2026-06-03 15:51:26 +03:00:     ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+2026-06-03 15:51:26 +03:00: ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2026-06-03 15:51:26 +03:00: Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+2026-06-03 15:51:26 +03:00: handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+2026-06-03 15:51:26 +03:00: Traceback (most recent call last):
+2026-06-03 15:51:26 +03:00:   File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\asyncio\events.py", line 89, in _run
+2026-06-03 15:51:26 +03:00:     self._context.run(self._callback, *self._args)
+2026-06-03 15:51:26 +03:00:     ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2026-06-03 15:51:26 +03:00:   File "C:\Users\Admin\AppData\Local\Programs\Python\Python313\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+2026-06-03 15:51:26 +03:00:     self._sock.shutdown(socket.SHUT_RDWR)
+2026-06-03 15:51:26 +03:00:     ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+2026-06-03 15:51:26 +03:00: ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
